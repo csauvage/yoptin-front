@@ -14,7 +14,7 @@ const App = () => {
         </div>
 
       <div className={'App__Availability'}>
-        August 2019
+        August 2019.
       </div>
     </div>
   );
